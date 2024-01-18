@@ -7,7 +7,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>SonicAudioLib</RootNamespace>
     <AssemblyName>SonicAudioLib</AssemblyName>
-    <TargetFramework>net7.0</TargetFramework>
+    <TargetFramework>net8.0</TargetFramework>
     <FileAlignment>512</FileAlignment>
     <LangVersion>8</LangVersion>
     <SignAssembly>false</SignAssembly>
